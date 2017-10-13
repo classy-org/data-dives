@@ -1,0 +1,5 @@
+numpy
+pandas
+plotly
+us
+git+ssh://git@bitbucket.org/stayclassy/classypy.git
